@@ -9,7 +9,6 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    /* خلفية مرسومة Vector تشبه الصورة الأصلية */
     background: url('https://img.freepik.com/free-vector/flat-design-mountain-landscape-with-clouds-birds_23-2148196144.jpg') no-repeat center center/cover;
 }
 
